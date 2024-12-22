@@ -1,0 +1,16 @@
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    background-color: pink;
+}
+h1 {
+    font-size: 100px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.recipes {
+    text-align: left;
+    list-style-position: inside;
+    font-size: 45px;
+}
