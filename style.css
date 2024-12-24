@@ -10,8 +10,9 @@ h1 {
 }
 
 .recipes {
-    text-align: left;
-    list-style-position: inside;
+    list-style-type: none;
+    text-align: center;
+    display: block;
     font-size: 45px;
     font-weight: bold;
 }
