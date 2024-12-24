@@ -4,6 +4,7 @@ body {
     background-color: pink;
     text-align: left;
     font-size: 35px;
+    padding-left: 8px;
 }
 h1 {
     font-size: 100px;
